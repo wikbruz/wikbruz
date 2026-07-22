@@ -33,6 +33,6 @@ Welcome to my profile. I am a software developer who focuses primarily on buildi
 ---
 
 ### 🔮 Future Build Wishlist
-**Music Streaming Data Scraper:** An automated web scraper that pulls real-time tracking metrics (views, chart ranks, streams) from public music charts to monitor analytics for my favorite groups.
-**Tarot Reading Simulator:** A digital Tarot simulator that models realistic deck-shuffling state physics (tracking upright/reversed orientations). It features a dynamic layout manager for complex spreads (like the Celtic Cross) and leverages AI API integrations to synthesize individual card metrics into a cohesive, contextual reading summary.
-**Personal Website:** A funky little site to show off my projects, along with other little bits, like 2000s era digital garden!
+* **Music Streaming Data Scraper:** An automated web scraper that pulls real-time tracking metrics (views, chart ranks, streams) from public music charts to monitor analytics for my favorite groups.
+* **Tarot Reading Simulator:** A digital Tarot simulator that models realistic deck-shuffling state physics (tracking upright/reversed orientations). It features a dynamic layout manager for complex spreads (like the Celtic Cross) and leverages AI API integrations to synthesize individual card metrics into a cohesive, contextual reading summary.
+* **Personal Website:** A funky little site to show off my projects, along with other little bits, like 2000s era digital garden!
